@@ -27,16 +27,16 @@ Each project is organized in its own folder with:
 - Datasets (when applicable)
 
 ---
-
 ## 🚀 Projects Included
 
 > Click into each folder to view the project in detail.
 
 | Project | Description |
 |--------|-------------|
-| **🏠 Toronto Housing Market Analysis** | Analyzed housing prices and trends in Toronto using pandas, seaborn, and Plotly. Explored price movements over time and compared neighborhoods. |
-| **📊 Airbnb Data Analysis** *(in progress)* | Guided project analyzing Airbnb listings to understand market trends, customer preferences, and pricing insights. |
-| **📁 More Projects Coming Soon** | Stay tuned for upcoming projects on automation, dashboards, APIs, and more. |
+| 🏠 [Toronto Housing Market Analysis](./Toronto%20Housing%20Market%20Analysis) | Analyzed housing prices and trends in Toronto using pandas, seaborn, and Plotly. Explored price movements over time and compared neighborhoods. |
+| 📊 [Airbnb Data Analysis](./Airbnb%20Data%20Analysis) | Guided project analyzing Airbnb listings to understand market trends, customer preferences, and pricing insights. |
+| 📁 More Projects Coming Soon | Stay tuned for upcoming projects on automation, dashboards, APIs, and more. |
+
 
 ---
 
